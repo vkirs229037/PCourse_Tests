@@ -1,0 +1,8 @@
+#!/bin/sh
+case $1 in
+    dijkstra) algo=Dijkstra;;
+    floyd) algo=FloydWarshall;;
+    johnson) algo=Johnson;;
+esac
+
+wine "/home/vl/Apps/FPTL/2019/fptl.exe" "../Course_FPTL/$algo.fptl" -t -n $3 --input-tuple "(\"Data/$2\")"
