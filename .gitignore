@@ -2,3 +2,4 @@ Data
 spec.txt
 .python-version
 .vscode
+__pycache__
