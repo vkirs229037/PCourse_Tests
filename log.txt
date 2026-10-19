@@ -1,0 +1,3456 @@
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 1 0.000488281
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 2 0.0003417967
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 3 0.000488281
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 4 0.000488281
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 5 0.0005371091000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 6 0.000488281
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 7 0.0006347653000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 8 0.0008300777
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 9 0.0006835934
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 10 0.0007812496000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 11 0.0009277339000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 12 0.0008789058000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 13 0.0010742173
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 14 0.0018554674
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 15 0.001220701
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 16 0.0014160124
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 17 0.0016113252000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 18 0.0014648402
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 19 0.0015136680000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 20 0.0016601519999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 21 0.0017578090000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 22 0.0018066359999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 23 0.002099608
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20 24 0.0017578090000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 1 0.000488281
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 2 0.00043945290000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 3 0.00039062480000000006
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 4 0.0003417967
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 5 0.000488281
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 6 0.0005859372000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 7 0.0005859372000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 8 0.0006835934
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 9 0.0007812496000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 10 0.0008789058000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 11 0.0008789058000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 12 0.0008300777
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 13 0.0009277339000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 14 0.000976562
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 15 0.0010253892
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 16 0.0010742176000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 17 0.001220701
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 18 0.0013183566000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 19 0.001220701
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 20 0.0012695288
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 21 0.0014160122
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 22 0.0015136684
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 23 0.0014648404000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 20b 24 0.0015136682
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 1 0.006738282
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 2 0.0036621099999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 3 0.002978518
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 4 0.0024414090000000007
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 5 0.00317383
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 6 0.002734377
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 7 0.0025390639999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 8 0.0028808620000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 9 0.003369142
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 10 0.00292969
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 11 0.0031250019999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 12 0.003320314
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 13 0.003369142
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 14 0.0036621099999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 15 0.003466798
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 16 0.0037109379999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 17 0.0036621099999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 18 0.004003906
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 19 0.0040527340000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 20 0.004345704000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 21 0.004687499
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 22 0.004980468
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 23 0.004345702
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50 24 0.004394531
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 1 0.007421875
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 2 0.0040527340000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 3 0.003076174
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 4 0.002246094
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 5 0.0028320339999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 6 0.0029296899999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 7 0.0028320339999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 8 0.0028808619999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 9 0.0032714849999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 10 0.0034179699999999993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 11 0.0032714859999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 12 0.003759766
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 13 0.0036621100000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 14 0.0037109379999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 15 0.004052735
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 16 0.003955078
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 17 0.004541014
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 18 0.0043945320000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 19 0.00415039
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 20 0.004003906
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 21 0.004003906
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 22 0.003955078
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 23 0.004248047
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 50b 24 0.0044921860000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 1 0.05424804
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 2 0.025488280000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 3 0.01606445
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 4 0.012109399999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 5 0.01518554
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 6 0.01557618
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 7 0.014990229999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 8 0.01630859
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 9 0.01728516
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 10 0.01713867
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 11 0.017578120000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 12 0.019384760000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 13 0.01777342
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 14 0.02158204
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 15 0.02026366
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 16 0.02060546
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 17 0.019384739999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 18 0.01733398
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 19 0.01879882
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 20 0.01855468
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 21 0.01899413
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 22 0.01889648
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 23 0.02060546
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100 24 0.019775389999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 1 0.048925779999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 2 0.029248050000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 3 0.02050782
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 4 0.0166504
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 5 0.0177246
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 6 0.015917960000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 7 0.01601562
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 8 0.017187480000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 9 0.017968750000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 10 0.01572265
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 11 0.0177246
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 12 0.017480469999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 13 0.01669921
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 14 0.017382810000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 15 0.01762695
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 16 0.01879881
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 17 0.017431650000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 18 0.01757812
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 19 0.018115219999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 20 0.019042979999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 21 0.019238270000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 22 0.02075194
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 23 0.01899414
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 100b 24 0.02080077
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 1 5.604981
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 2 2.766113
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 3 1.891993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 4 1.487939
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 5 1.440722
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 6 1.478564
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 7 1.5278820000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 8 1.4082029999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 9 1.377148
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 10 1.3706530000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 11 1.377148
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 12 1.423878
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 13 1.3822769999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 14 1.368212
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 15 1.359863
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 16 1.455907
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 17 1.362743
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 18 1.3680189999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 19 1.3479500000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 20 1.4168459999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 21 1.359768
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 22 1.389892
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 23 1.365871
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500 24 1.4800790000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 1 5.358155000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 2 2.6854009999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 3 1.806689
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 4 1.4441410000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 5 1.527295
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 6 1.513429
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 7 1.4172850000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 8 1.4139149999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 9 1.384082
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 10 1.383643
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 11 1.3632819999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 12 1.4164059999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 13 1.375
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 14 1.41289
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 15 1.376465
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 16 1.3748539999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 17 1.3732419999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 18 1.374999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 19 1.3586429999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 20 1.3796380000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 21 1.3584479999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 22 1.360646
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 23 1.35874
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp dijkstra 500b 24 1.467088
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 1 0.0009277339000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 2 0.0006835934
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 3 0.0005859372000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 4 0.0006347653000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 5 0.0007812496000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 6 0.0007812496000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 7 0.0008300777
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 8 0.0009277339000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 9 0.0008300777
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 10 0.0010742176000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 11 0.0011718732
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 12 0.0012695290000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 13 0.0014648401999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 14 0.0014648402
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 15 0.0014160124
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 16 0.0014648402
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 17 0.0015136680000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 18 0.0014648401999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 19 0.0013671846000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 20 0.0015624960000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 21 0.0016601522
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 22 0.0016601519999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 23 0.0017089799999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20 24 0.001855465
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 1 0.0008789055000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 2 0.0006835934
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 3 0.000488281
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 4 0.000488281
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 5 0.0007324215000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 6 0.0006835934
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 7 0.0007324215000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 8 0.0007812496000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 9 0.0008300777
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 10 0.0009765617
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 11 0.0010742176000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 12 0.0011230454000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 13 0.0013183568000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 14 0.0013671844000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 15 0.0012695288
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 16 0.0015136680000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 17 0.0013671844000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 18 0.0017089800000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 19 0.0015136680000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 20 0.00170898
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 21 0.0017578079999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 22 0.0022460930000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 23 0.001855465
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 20b 24 0.002197265
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 1 0.012695320000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 2 0.0075683600000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 3 0.005224607000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 4 0.004199217999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 5 0.005224607000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 6 0.0048828100000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 7 0.0044433580000000006
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 8 0.004687498
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 9 0.0047851560000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 10 0.004980468
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 11 0.005078123
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 12 0.005029296000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 13 0.005322264000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 14 0.005126953
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 15 0.005615233000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 16 0.006152344999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 17 0.00576172
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 18 0.0060058609999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 19 0.005761720999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 20 0.00576172
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 21 0.006103518
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 22 0.0068847679999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 23 0.006250001999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50 24 0.0065429699999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 1 0.01254885
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 2 0.006884768000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 3 0.0053222650000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 4 0.004003906
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 5 0.005224607000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 6 0.004736327
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 7 0.004638670000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 8 0.004736326000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 9 0.0049804689999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 10 0.004541014
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 11 0.005029294000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 12 0.005029296
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 13 0.0053710910000000014
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 14 0.005175781999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 15 0.005664062
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 16 0.005273435000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 17 0.00576172
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 18 0.005761719
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 19 0.005957031999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 20 0.006396486
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 21 0.006201172999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 22 0.006103516
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 23 0.0060058609999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 50b 24 0.006738282
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 1 0.09863285999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 2 0.04814453
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 3 0.03632813
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 4 0.02451173
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 5 0.03164062
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 6 0.02905275
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 7 0.0275879
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 8 0.027783220000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 9 0.027343760000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 10 0.02968749
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 11 0.03120117
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 12 0.03154296
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 13 0.030712890000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 14 0.0328125
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 15 0.032421849999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 16 0.028320309999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 17 0.03061524
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 18 0.03149414
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 19 0.02958985
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 20 0.03173827
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 21 0.031640629999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 22 0.0313965
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 23 0.032324229999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100 24 0.031591789999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 1 0.09023436999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 2 0.047998030000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 3 0.03740235000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 4 0.02719726
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 5 0.03041993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 6 0.028906249999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 7 0.026367190000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 8 0.027685559999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 9 0.030371090000000007
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 10 0.03056639
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 11 0.03208006
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 12 0.030957029999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 13 0.032568360000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 14 0.030126970000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 15 0.030664070000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 16 0.030761720000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 17 0.030419930000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 18 0.029785159999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 19 0.02968751
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 20 0.030761719999999992
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 21 0.03164065
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 22 0.028564459999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 23 0.030712869999999993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 100b 24 0.02983398
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 1 11.02929
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 2 5.525685
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 3 3.6953139999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 4 2.90703
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 5 2.829347
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 6 3.022656
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 7 2.8507309999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 8 2.7794419999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 9 2.813575
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 10 2.9121580000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 11 2.820411
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 12 2.853468
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 13 2.808251
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 14 2.831155
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 15 2.802734
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 16 2.870556
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 17 2.8327649999999993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 18 2.825781
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 19 2.8068360000000006
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 20 2.8463389999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 21 2.7875
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 22 2.8068370000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 23 2.8155259999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500 24 2.8101570000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 1 10.945789999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 2 5.526417
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 3 3.7711419999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 4 2.8616699999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 5 2.825098
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 6 2.9916020000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 7 2.845118
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 8 2.834375
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 9 2.8046379999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 10 2.8897959999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 11 2.8296870000000007
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 12 2.7567860000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 13 2.7491220000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 14 2.7926760000000006
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 15 2.756593
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 16 2.745606
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 17 2.792139
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 18 2.7768070000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 19 2.800635
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 20 2.76748
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 21 2.792872
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 22 2.7518059999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 23 2.7998040000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp johnson 500b 24 2.820264
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 1 4.88281e-05
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 2 0.0001953124
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 3 0.0002441405
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 4 0.0001953124
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 5 0.0008300777
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 6 0.0010742176000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 7 0.0013671844000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 8 0.0014648402
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 9 0.0018066359999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 10 0.002050779
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 11 0.0021484359999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 12 0.0023437510000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 13 0.0023925810000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 14 0.0026855489999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 15 0.0030761739999999992
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 16 0.002880862
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 17 0.0029785180000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 18 0.0032226579999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 19 0.0034667979999999992
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 20 0.003515626
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 21 0.0037109379999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 22 0.004052734
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 23 0.00463867
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20 24 0.00463867
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 1 9.76562e-05
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 2 0.0002441405
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 3 0.0002441405
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 4 0.0001464843
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 5 0.0009277339000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 6 0.0010253898
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 7 0.0013183566000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 8 0.0013671844000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 9 0.00170898
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 10 0.0019531209999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 11 0.001904293
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 12 0.0023925789999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 13 0.00234375
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 14 0.002587892
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 15 0.002783206
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 16 0.0027832059999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 17 0.0032714859999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 18 0.003613282
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 19 0.00390625
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 20 0.0040527340000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 21 0.0041015620000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 22 0.004345702
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 23 0.004296874
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 20b 24 0.00463867
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 1 0.0008300774000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 2 0.0006835934
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 3 0.0007324215000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 4 0.0007324215000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 5 0.002539065
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 6 0.002832034
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 7 0.0031250019999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 8 0.003515626
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 9 0.003955078
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 10 0.004443358
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 11 0.0046386710000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 12 0.005322263000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 13 0.005468749
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 14 0.00605469
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 15 0.005957035999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 16 0.0063964880000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 17 0.006640628
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 18 0.007812500000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 19 0.007958984
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 20 0.00830078
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 21 0.0078125
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 22 0.00932617
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 23 0.010400383999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50 24 0.009960934000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 1 0.0008300777
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 2 0.0005859372000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 3 0.0005859372000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 4 0.0005371091000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 5 0.001953121
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 6 0.0026855489999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 7 0.002880862
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 8 0.0029296899999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 9 0.003369142
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 10 0.0035644539999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 11 0.004101562
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 12 0.0041015620000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 13 0.004443358
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 14 0.0055664040000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 15 0.005517578
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 16 0.005810549999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 17 0.006054691999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 18 0.006640628
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 19 0.007031252
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 20 0.007373047999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 21 0.008203124000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 22 0.0076171879999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 23 0.007910156
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 50b 24 0.009277342
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 1 0.004736326000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 2 0.003955078
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 3 0.0032226580000000006
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 4 0.0028320339999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 5 0.005908203000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 6 0.006054690999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 7 0.0058105480000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 8 0.006591799999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 9 0.008105468000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 10 0.008496092
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 11 0.009521479999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 12 0.010253907999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 13 0.01171876
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 14 0.012011730000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 15 0.01250002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 16 0.014257810000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 17 0.015478539999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 18 0.01601562
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 19 0.017382810000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 20 0.019775389999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 21 0.0194336
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 22 0.02089846
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 23 0.022363280000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100 24 0.02309571
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 1 0.006347657
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 2 0.0044921860000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 3 0.003369142
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 4 0.002880862
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 5 0.00629883
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 6 0.007031252
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 7 0.0072265639999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 8 0.009277339999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 9 0.010400393999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 10 0.011279313999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 11 0.010742204
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 12 0.012011730000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 13 0.012451190000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 14 0.01303712
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 15 0.013623050000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 16 0.0148926
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 17 0.015771490000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 18 0.017187509999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 19 0.01723632
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 20 0.01791991
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 21 0.018457019999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 22 0.0203125
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 23 0.0203125
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 100b 24 0.021337879999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 1 0.5879394
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 2 0.35244130000000007
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 3 0.2498046
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 4 0.2314453
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 5 0.2602538
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 6 0.2668456
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 7 0.27524430000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 8 0.2578613
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 9 0.27285159999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 10 0.2771971999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 11 0.29326169999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 12 0.27270510000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 13 0.2690430999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 14 0.2685057
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 15 0.2959961
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 16 0.288965
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 17 0.2782227
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 18 0.28173820000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 19 0.272119
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 20 0.28632810000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 21 0.288916
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 22 0.2819825
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 23 0.2878418
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500 24 0.30146480000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 1 0.6081543
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 2 0.38354499999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 3 0.2848632
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 4 0.21650390000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 5 0.33032239999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 6 0.3125489
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 7 0.3067382
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 8 0.2942870999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 9 0.3060058
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 10 0.29790039999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 11 0.24223630000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 12 0.2936036000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 13 0.2843749
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 14 0.29584960000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 15 0.29160169999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 16 0.2990233
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 17 0.28232419999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 18 0.29541019999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 19 0.28798830000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 20 0.2880371
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 21 0.30336930000000006
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 22 0.30864250000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 23 0.31513659999999993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+cpp floyd 500b 24 0.3211913
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 1 0.010299999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 2 0.0116
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 3 0.010799999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 4 0.014499999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 5 0.015500000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 6 0.0149
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 7 0.015600000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 8 0.016499999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 9 0.018899999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 10 0.017300000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 11 0.020699999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 12 0.04209999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 13 0.0401
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 14 0.0394
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 15 0.0391
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 16 0.0419
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 17 0.04259999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 18 0.04549999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 19 0.048299999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 20 0.04519999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 21 0.056999999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 22 0.047799999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 23 0.05189999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20 24 0.0514
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 1 0.0101
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 2 0.0114
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 3 0.013500000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 4 0.012099999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 5 0.017200000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 6 0.0159
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 7 0.0175
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 8 0.0164
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 9 0.0183
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 10 0.0177
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 11 0.0186
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 12 0.0404
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 13 0.03869999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 14 0.041899999999999986
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 15 0.04429999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 16 0.04469999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 17 0.04669999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 18 0.0465
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 19 0.0501
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 20 0.04569999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 21 0.04649999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 22 0.047999999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 23 0.049199999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 20b 24 0.051500000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 1 0.009899999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 2 0.0127
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 3 0.011499999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 4 0.0128
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 5 0.013000000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 6 0.013900000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 7 0.016300000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 8 0.016700000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 9 0.018400000000000007
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 10 0.018300000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 11 0.0199
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 12 0.040299999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 13 0.0389
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 14 0.0407
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 15 0.0409
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 16 0.04259999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 17 0.045899999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 18 0.04499999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 19 0.044399999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 20 0.04619999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 21 0.047299999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 22 0.048799999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 23 0.04789999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50 24 0.052000000000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 1 0.011199999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 2 0.011499999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 3 0.0124
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 4 0.0142
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 5 0.0155
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 6 0.016200000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 7 0.0161
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 8 0.015000000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 9 0.017800000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 10 0.0177
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 11 0.018899999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 12 0.0392
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 13 0.0395
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 14 0.038799999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 15 0.040799999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 16 0.04329999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 17 0.04279999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 18 0.04359999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 19 0.04599999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 20 0.0514
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 21 0.046799999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 22 0.049199999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 23 0.05489999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 50b 24 0.04909999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 1 0.010499999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 2 0.0103
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 3 0.012199999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 4 0.012799999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 5 0.014300000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 6 0.015200000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 7 0.0156
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 8 0.0158
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 9 0.015900000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 10 0.018
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 11 0.020299999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 12 0.0359
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 13 0.03899999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 14 0.038799999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 15 0.043899999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 16 0.0416
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 17 0.04259999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 18 0.045399999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 19 0.04569999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 20 0.0465
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 21 0.047299999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 22 0.0493
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 23 0.0507
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100 24 0.049199999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 1 0.0101
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 2 0.0105
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 3 0.012099999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 4 0.013599999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 5 0.013499999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 6 0.015499999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 7 0.015400000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 8 0.015300000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 9 0.016600000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 10 0.019499999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 11 0.019300000000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 12 0.038099999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 13 0.0397
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 14 0.03809999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 15 0.042899999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 16 0.04429999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 17 0.0407
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 18 0.04339999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 19 0.047299999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 20 0.0464
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 21 0.0477
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 22 0.0496
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 23 0.047999999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 100b 24 0.04689999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 1 0.010599999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 2 0.010699999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 3 0.011599999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 4 0.0116
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 5 0.014100000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 6 0.0157
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 7 0.014800000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 8 0.0158
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 9 0.0177
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 10 0.0169
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 11 0.0193
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 12 0.0402
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 13 0.03969999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 14 0.03909999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 15 0.04349999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 16 0.04409999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 17 0.044199999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 18 0.0447
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 19 0.04759999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 20 0.046299999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 21 0.048299999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 22 0.04539999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 23 0.0503
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500 24 0.0505
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 1 0.009699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 2 0.011399999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 3 0.011699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 4 0.012499999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 5 0.0132
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 6 0.0144
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 7 0.016300000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 8 0.0173
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 9 0.017499999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 10 0.019299999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 11 0.021500000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 12 0.04009999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 13 0.0369
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 14 0.0414
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 15 0.04359999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 16 0.04239999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 17 0.04289999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 18 0.047099999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 19 0.04329999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 20 0.04529999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 21 0.046799999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 22 0.044599999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 23 0.04709999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl dijkstra 500b 24 0.04859999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 1 0.0118
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 2 0.011899999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 3 0.0129
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 4 0.0129
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 5 0.015700000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 6 0.016000000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 7 0.015099999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 8 0.017800000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 9 0.0179
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 10 0.0195
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 11 0.0195
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 12 0.0358
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 13 0.0388
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 14 0.039599999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 15 0.042499999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 16 0.04479999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 17 0.045599999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 18 0.04659999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 19 0.048999999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 20 0.04809999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 21 0.04709999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 22 0.0507
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 23 0.0521
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20 24 0.0499
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 1 0.010599999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 2 0.011699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 3 0.0126
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 4 0.015200000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 5 0.0149
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 6 0.0142
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 7 0.016200000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 8 0.016599999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 9 0.0186
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 10 0.0201
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 11 0.0208
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 12 0.04409999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 13 0.04010000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 14 0.04279999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 15 0.04519999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 16 0.04489999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 17 0.045399999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 18 0.046299999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 19 0.04669999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 20 0.04509999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 21 0.047999999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 22 0.05109999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 23 0.0516
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 20b 24 0.0505
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 1 0.010599999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 2 0.012299999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 3 0.012799999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 4 0.013299999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 5 0.014300000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 6 0.0157
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 7 0.017500000000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 8 0.0186
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 9 0.018000000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 10 0.020499999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 11 0.0206
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 12 0.0341
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 13 0.04
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 14 0.0419
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 15 0.04239999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 16 0.044
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 17 0.043899999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 18 0.04449999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 19 0.045799999999999993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 20 0.045799999999999993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 21 0.04489999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 22 0.047099999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 23 0.04889999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50 24 0.05179999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 1 0.010999999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 2 0.0126
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 3 0.013699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 4 0.013799999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 5 0.014300000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 6 0.015000000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 7 0.017600000000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 8 0.016900000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 9 0.0188
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 10 0.019200000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 11 0.0189
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 12 0.0349
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 13 0.0401
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 14 0.04109999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 15 0.040799999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 16 0.04299999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 17 0.042699999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 18 0.0462
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 19 0.04769999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 20 0.044899999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 21 0.0485
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 22 0.04859999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 23 0.04819999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 50b 24 0.0503
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 1 0.010899999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 2 0.0132
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 3 0.0121
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 4 0.014400000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 5 0.0142
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 6 0.014700000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 7 0.016700000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 8 0.019
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 9 0.0177
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 10 0.018099999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 11 0.0197
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 12 0.0402
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 13 0.04259999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 14 0.0394
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 15 0.04479999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 16 0.039999999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 17 0.04069999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 18 0.04429999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 19 0.04709999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 20 0.04649999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 21 0.049699999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 22 0.04939999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 23 0.0502
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100 24 0.04699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 1 0.0104
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 2 0.011799999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 3 0.012399999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 4 0.013499999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 5 0.013900000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 6 0.014500000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 7 0.014700000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 8 0.018499999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 9 0.0185
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 10 0.021699999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 11 0.020899999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 12 0.0378
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 13 0.0389
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 14 0.0382
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 15 0.042499999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 16 0.04469999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 17 0.04019999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 18 0.04639999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 19 0.0493
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 20 0.04639999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 21 0.045
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 22 0.04739999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 23 0.047599999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 100b 24 0.0518
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 1 0.010799999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 2 0.0123
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 3 0.011899999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 4 0.015100000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 5 0.0153
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 6 0.014800000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 7 0.017099999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 8 0.016
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 9 0.018799999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 10 0.0196
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 11 0.0196
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 12 0.044
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 13 0.04359999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 14 0.040499999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 15 0.0409
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 16 0.042699999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 17 0.0409
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 18 0.043199999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 19 0.0435
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 20 0.045799999999999993
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 21 0.048499999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 22 0.04809999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 23 0.052000000000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500 24 0.05179999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 1 0.011599999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 2 0.0127
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 3 0.0127
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 4 0.013399999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 5 0.016600000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 6 0.015600000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 7 0.017500000000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 8 0.016400000000000005
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 9 0.018
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 10 0.019200000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 11 0.018699999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 12 0.0386
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 13 0.038799999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 14 0.042499999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 15 0.041999999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 16 0.043399999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 17 0.0418
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 18 0.0455
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 19 0.04499999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 20 0.04659999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 21 0.04789999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 22 0.04859999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 23 0.04809999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl johnson 500b 24 0.0507
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 1 0.009399999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 2 0.0106
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 3 0.011899999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 4 0.012399999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 5 0.013900000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 6 0.014900000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 7 0.016500000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 8 0.0152
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 9 0.015700000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 10 0.0207
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 11 0.016599999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 12 0.038400000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 13 0.0389
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 14 0.0395
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 15 0.038799999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 16 0.041699999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 17 0.042699999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 18 0.040999999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 19 0.043
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 20 0.04839999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 21 0.049699999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 22 0.047299999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 23 0.048799999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20 24 0.0505
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 1 0.0098
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 2 0.011599999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 3 0.010899999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 4 0.011899999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 5 0.0131
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 6 0.013799999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 7 0.016300000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 8 0.015999999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 9 0.016599999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 10 0.017900000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 11 0.0191
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 12 0.03729999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 13 0.0402
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 14 0.039599999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 15 0.04139999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 16 0.04129999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 17 0.044
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 18 0.043399999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 19 0.04689999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 20 0.041699999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 21 0.04499999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 22 0.047999999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 23 0.04859999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 20b 24 0.04769999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 1 0.010199999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 2 0.011399999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 3 0.011899999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 4 0.013599999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 5 0.0132
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 6 0.014799999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 7 0.015400000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 8 0.0165
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 9 0.016099999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 10 0.015600000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 11 0.0193
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 12 0.0399
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 13 0.034999999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 14 0.03700000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 15 0.03849999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 16 0.0361
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 17 0.04209999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 18 0.04279999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 19 0.046599999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 20 0.0464
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 21 0.0475
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 22 0.048299999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 23 0.046
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50 24 0.04609999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 1 0.010299999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 2 0.011699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 3 0.010199999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 4 0.0127
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 5 0.013399999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 6 0.0134
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 7 0.014700000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 8 0.016600000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 9 0.015100000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 10 0.018300000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 11 0.018300000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 12 0.0349
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 13 0.0414
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 14 0.0435
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 15 0.0389
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 16 0.0417
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 17 0.04529999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 18 0.04349999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 19 0.03959999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 20 0.04639999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 21 0.04699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 22 0.04559999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 23 0.04709999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 50b 24 0.0465
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 1 0.0103
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 2 0.011999999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 3 0.0109
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 4 0.011699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 5 0.013000000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 6 0.013699999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 7 0.015000000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 8 0.017700000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 9 0.018000000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 10 0.0176
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 11 0.018899999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 12 0.03610000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 13 0.0385
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 14 0.0394
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 15 0.04129999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 16 0.04179999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 17 0.046799999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 18 0.044399999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 19 0.04179999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 20 0.043199999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 21 0.04739999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 22 0.045
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 23 0.04689999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100 24 0.047799999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 1 0.0103
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 2 0.0116
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 3 0.011199999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 4 0.011099999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 5 0.013599999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 6 0.013999999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 7 0.014400000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 8 0.016100000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 9 0.016300000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 10 0.0172
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 11 0.019899999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 12 0.0366
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 13 0.0366
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 14 0.04239999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 15 0.0432
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 16 0.040100000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 17 0.04419999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 18 0.042899999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 19 0.04509999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 20 0.04379999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 21 0.04769999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 22 0.047999999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 23 0.05029999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 100b 24 0.0511
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 1 0.0089
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 2 0.011899999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 3 0.011
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 4 0.012199999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 5 0.0129
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 6 0.013900000000000001
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 7 0.015300000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 8 0.015500000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 9 0.015400000000000002
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 10 0.0169
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 11 0.0203
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 12 0.0383
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 13 0.0382
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 14 0.041499999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 15 0.04239999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 16 0.04449999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 17 0.039999999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 18 0.04139999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 19 0.044199999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 20 0.04589999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 21 0.04379999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 22 0.04609999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 23 0.046599999999999996
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500 24 0.04559999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 1 0.01
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 2 0.0121
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 3 0.011199999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 4 0.011999999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 5 0.013299999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 6 0.013099999999999997
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 7 0.015799999999999998
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 8 0.0158
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 9 0.016200000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 10 0.016700000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 11 0.017800000000000003
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 12 0.042199999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 13 0.03979999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 14 0.04059999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 15 0.0409
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 16 0.03939999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 17 0.04279999999999999
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 18 0.044899999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 19 0.043399999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 20 0.044700000000000004
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 21 0.0501
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 22 0.047299999999999995
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 23 0.049699999999999994
+runs 
+0 1 2 3 4 5 6 7 8 9 
+fptl floyd 500b 24 0.0503
