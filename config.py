@@ -11,7 +11,7 @@ PROGRAMS = {
 
 ALGORITHMS = ["dijkstra", "johnson", "floyd"]
 
-THREADS = list(range(1, 25))
+THREADS = list(range(1, 12))
 
 # Входные графы. Имя = размер + признак бинарности ("b" в конце).
 # "100"  - взвешенный граф 100x100, файлы cpp_100.txt и fptl_100.txt
