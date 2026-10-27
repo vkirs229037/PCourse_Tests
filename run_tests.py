@@ -32,6 +32,8 @@ for impl, program in PROGRAMS.items():
                         [program, algo, path, str(threads)],
                         capture_output=True, text=True, errors="replace",
                     )
+                    if result.returncode != 0:
+                        raise RuntimeError(f"Execution failed!\n{result.output}")
                     time_i = get_time(impl, result.stdout)
                     time += time_i
                 print()
