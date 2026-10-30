@@ -5,4 +5,4 @@ case $1 in
     johnson) algo=Johnson;;
 esac
 
-wine "/opt/fptl/fptl.exe" "../Course_FPTL/$algo.fptl" -t -n $3 --input-tuple "(\"$2\")"
+wine "/opt/fptl/fptl.exe" "../Course_FPTL/$algo.fptl" -t -n $3 --input-tuple "(\"$2\" * $3)"
